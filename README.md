@@ -26,8 +26,14 @@
 - Set the following in your ~/.zshrc:
 
   ```
-  ZSH_THEME="agnoster"
   ZSH_THEME="robbyrussell"
+  ZSH_THEME="agnoster"
+  ```
+
+- set plugins
+
+  ```
+  cat plugins >> ~/.zshrc
   ```
 
 - copy files in custom  to ~/.oh-my-zsh/custom:
