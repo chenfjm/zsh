@@ -5,13 +5,6 @@
 - oh my zsh
 
   ```
-  $ sh -c "$(curl -fsSL hps://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-  ```
-
-- powerline fonts
-
-  ```
-  $ git clone https://github.com/powerline/fonts.git
   $ ./install.sh
   ```
 
@@ -21,28 +14,9 @@
   brew install autojump
   ```
 
+
 ### Config
 
-- Set the following in your ~/.zshrc:
-
-  ```
-  ZSH_THEME="robbyrussell"
-  ZSH_THEME="agnoster"
-  ```
-
-- set plugins
-
-  ```
-  cat plugins >> ~/.zshrc
-  ```
-
-- copy files in custom  to ~/.oh-my-zsh/custom:
-
-   ```
-  $ copy custom/* ~/.oh-my-zsh/custom/
-   ```
-
-  ​
-
-  ​
-
+ ```
+$ ./config.sh
+ ```
