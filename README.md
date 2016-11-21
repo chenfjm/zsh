@@ -23,3 +23,8 @@ $ ./app.sh
 $ ./python.sh
 ```
 
+### Requirements
+
+- iTerm
+  - colors: Solarized Dark
+  - Non-ASCII Font: Source Code Pro for Powerline
