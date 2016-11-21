@@ -2,21 +2,24 @@
 
 ### Install
 
-- oh my zsh
-
-  ```
-  $ ./install.sh
-  ```
-
-- autojump
-
-  ```
-  brew install autojump
-  ```
-
-
+```
+$ ./install.sh
+```
 ### Config
 
  ```
 $ ./config.sh
  ```
+
+### Application
+
+```
+$ ./app.sh
+```
+
+### python
+
+```
+$ ./python.sh
+```
+
