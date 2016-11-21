@@ -23,8 +23,16 @@ $ ./app.sh
 $ ./python.sh
 ```
 
-### Requirements
+### Theme
 
-- iTerm
-  - colors: Solarized Dark
-  - Non-ASCII Font: Source Code Pro for Powerline
+- default
+  - iTerm
+    - colors: Monokai
+  - vim
+    - Monokai
+- agnoster
+  - iTerm
+    - colors: Solarized Dark
+    - Non-ASCII Font: Source Code Pro for Powerline
+  - vim
+    - solarized

@@ -1,7 +1,5 @@
 plugins=(
 git
-git-flow
-sudo
 osx
 autojump
 python
