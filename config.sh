@@ -2,4 +2,5 @@
 #
 cp custom/*.zsh ~/.oh-my-zsh/custom/
 cp themes/*.zsh-theme ~/.oh-my-zsh/custom/themes/
-source ~/.zshrc
+cp .zshrc ~/.zshrc
+source $ZSH/oh-my-zsh.sh
