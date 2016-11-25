@@ -3,3 +3,4 @@
 
 brew install thefuck
 brew install autojump
+brew install jq
