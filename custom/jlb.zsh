@@ -11,4 +11,5 @@ alias 101="ssh chencheng@10.1.0.101"
 alias 102="ssh chencheng@10.1.0.102"
 alias 111="ssh chencheng@10.1.0.111"
 alias 112="ssh chencheng@10.1.0.112"
+alias mysqljlb="mycli -hmysql.jlb.com -uzkfc -pzkfc123"
 
