@@ -8,4 +8,4 @@ eval "$(thefuck --alias FUCK)"
 
 alias vi="/usr/bin/vi"
 alias bwg="ssh -p 29898 root@45.78.10.187"
-alias aly="ssh root@121.42.250.236"
+alias aly="ssh web@121.42.250.236"
